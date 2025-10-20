@@ -13,7 +13,7 @@ const projects = inject('projects')
     
     <main>
         <section class="hero">
-            <h2>Welcome to My Portfolio</h2>
+            <h2>Welcome to My Portfolio!</h2>
             <p>Here are some of my recent projects</p>
         </section>
         
